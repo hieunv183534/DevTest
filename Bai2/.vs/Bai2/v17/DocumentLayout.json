@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\efoot\\OneDrive\\Desktop\\Bai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E70D2E55-2A15-4F68-91E3-2F8FE216D3C8}|Bai2\\Bai2.csproj|c:\\users\\efoot\\onedrive\\desktop\\bai2\\bai2\\bai2backtrackingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70D2E55-2A15-4F68-91E3-2F8FE216D3C8}|Bai2\\Bai2.csproj|solutionrelative:bai2\\bai2backtrackingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70D2E55-2A15-4F68-91E3-2F8FE216D3C8}|Bai2\\Bai2.csproj|c:\\users\\efoot\\onedrive\\desktop\\bai2\\bai2\\bai2dynamicprogrammingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70D2E55-2A15-4F68-91E3-2F8FE216D3C8}|Bai2\\Bai2.csproj|solutionrelative:bai2\\bai2dynamicprogrammingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70D2E55-2A15-4F68-91E3-2F8FE216D3C8}|Bai2\\Bai2.csproj|c:\\users\\efoot\\onedrive\\desktop\\bai2\\bai2\\bai2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70D2E55-2A15-4F68-91E3-2F8FE216D3C8}|Bai2\\Bai2.csproj|solutionrelative:bai2\\bai2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70D2E55-2A15-4F68-91E3-2F8FE216D3C8}|Bai2\\Bai2.csproj|c:\\users\\efoot\\onedrive\\desktop\\bai2\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70D2E55-2A15-4F68-91E3-2F8FE216D3C8}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai2DynamicProgrammingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\efoot\\OneDrive\\Desktop\\Bai2\\Bai2\\Bai2DynamicProgrammingStrategy.cs",
+              "RelativeDocumentMoniker": "Bai2\\Bai2DynamicProgrammingStrategy.cs",
+              "ToolTip": "C:\\Users\\efoot\\OneDrive\\Desktop\\Bai2\\Bai2\\Bai2DynamicProgrammingStrategy.cs",
+              "RelativeToolTip": "Bai2\\Bai2DynamicProgrammingStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T07:01:12.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai2Context.cs",
+              "DocumentMoniker": "C:\\Users\\efoot\\OneDrive\\Desktop\\Bai2\\Bai2\\Bai2Context.cs",
+              "RelativeDocumentMoniker": "Bai2\\Bai2Context.cs",
+              "ToolTip": "C:\\Users\\efoot\\OneDrive\\Desktop\\Bai2\\Bai2\\Bai2Context.cs",
+              "RelativeToolTip": "Bai2\\Bai2Context.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:42:29.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\efoot\\OneDrive\\Desktop\\Bai2\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2\\Program.cs",
+              "ToolTip": "C:\\Users\\efoot\\OneDrive\\Desktop\\Bai2\\Bai2\\Program.cs",
+              "RelativeToolTip": "Bai2\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:41:40.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai2BacktrackingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\efoot\\OneDrive\\Desktop\\Bai2\\Bai2\\Bai2BacktrackingStrategy.cs",
+              "RelativeDocumentMoniker": "Bai2\\Bai2BacktrackingStrategy.cs",
+              "ToolTip": "C:\\Users\\efoot\\OneDrive\\Desktop\\Bai2\\Bai2\\Bai2BacktrackingStrategy.cs",
+              "RelativeToolTip": "Bai2\\Bai2BacktrackingStrategy.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:30:46.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
